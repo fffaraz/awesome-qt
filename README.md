@@ -96,3 +96,12 @@ A curated list of awesome Qt related stuff.
 
 * [C++ Qt Programming](https://www.youtube.com/playlist?list=PL2D1942A4688E9D63) - by VoidRealms.
 * [C++ GUI with Qt Playlist](https://www.youtube.com/playlist?list=PLD0D54219E5F2544D) - Official Playlist for thenewboston C++ GUI with Qt tutorials.
+
+# Websites
+
+* [Planet Qt](http://planet.qt-project.org/)
+* [Qt Apps](http://qt-apps.org/)
+* [Planet KDE](http://planetkde.org/)
+* [Qt Centre](http://www.qtcentre.org/content/)
+* [qt-articles](http://qt-articles.blogspot.de/)
+* [Qt forum](http://www.qtforum.org/index.html)
