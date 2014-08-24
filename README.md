@@ -77,6 +77,7 @@ A curated list of awesome Qt related stuff.
 
 ## Libraries.
 
+* [QTango](http://www.tango-controls.org/Documents/gui/qt-tango-related-stuff) - Qt & TANGO related stuff.
 * [QtAV](https://github.com/wang-bin/QtAV) - A media playback framework based on Qt and FFmpeg.
 * [Tufão](https://github.com/vinipsmaker/tufao) - An asynchronous web framework for C++ built on top of Qt.
 * [QDjango](https://github.com/jlaine/qdjango/) - QDjango, a Qt-based C++ web framework.
