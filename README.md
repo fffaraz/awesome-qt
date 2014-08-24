@@ -7,7 +7,7 @@ A curated list of awesome Qt related stuff.
 	- [Native Libraries](#native-libraries)
 
 ## Essential Modules
-* http://qt-project.org/doc/qt-5/qtmodules.html *
+*http://qt-project.org/doc/qt-5/qtmodules.html*
 
 * [Core](http://qt-project.org/doc/qt-5/qtcore-index.html) - Core non-graphical classes used by other modules.
 * [GUI](http://qt-project.org/doc/qt-5/qtgui-index.html) - Base classes for graphical user interface (GUI) components. Includes OpenGL.
@@ -61,7 +61,7 @@ A curated list of awesome Qt related stuff.
 * [How to Create Qt Plugins](http://qt-project.org/doc/qt-5/plugins-howto.html)
 
 ## Overviews
-* http://qt-project.org/doc/qt-5/overviews-main.html *
+*http://qt-project.org/doc/qt-5/overviews-main.html*
 
 * [Multimedia](http://qt-project.org/doc/qt-5/multimediaoverview.html)
 * [Networking and Connectivity](http://qt-project.org/doc/qt-5/topics-network-connectivity.html)
