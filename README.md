@@ -105,3 +105,7 @@ A curated list of awesome Qt related stuff.
 * [Qt Centre](http://www.qtcentre.org/content/)
 * [qt-articles](http://qt-articles.blogspot.de/)
 * [Qt forum](http://www.qtforum.org/index.html)
+
+# Lists
+
+* [Qt by Marnando Júnior](https://qt.zeef.com/marnando.vasconcelos.de.almeida.junior)
