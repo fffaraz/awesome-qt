@@ -1,0 +1,2 @@
+http://blog.debao.me/2013/08/how-to-use-qthread-in-the-right-way-part-1/
+http://blog.debao.me/2013/08/how-to-use-qthread-in-the-right-way-part-2/
